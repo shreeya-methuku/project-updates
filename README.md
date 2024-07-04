@@ -56,7 +56,7 @@ Notes: Mentors are very cool. Owe then a treat.
 BEST YOUTUBE TUTORIAL TO LEARN DOCKER BASICS: https://youtu.be/zCsbp_iBTq8?si=qBewy3ppdxQjS920
 
 CHEATSHEET: https://dockerlabs.collabnix.com/docker/cheatsheet/
-- [] Machine Learning Fundamentals
+- [ ] Machine Learning Fundamentals
 
 Additional
 - [ ] Read documentations on ludwig, predibase, and NVIDIA NeMo
