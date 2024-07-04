@@ -51,10 +51,12 @@ Notes: Mentors are very cool. Owe then a treat.
 ### Week 1
 - [x] Learn fundamentals of Git and VCS
 - [ ] Getting Python fundamentals right.
-- [ ] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/) 
+- [x] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/) 
+
 BEST YOUTUBE TUTORIAL TO LEARN DOCKER BASICS: https://youtu.be/zCsbp_iBTq8?si=qBewy3ppdxQjS920
+
 CHEATSHEET: https://dockerlabs.collabnix.com/docker/cheatsheet/
-- [x] Machine Learning Fundamentals
+- [] Machine Learning Fundamentals
 
 Additional
 - [ ] Read documentations on ludwig, predibase, and NVIDIA NeMo
