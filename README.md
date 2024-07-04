@@ -61,14 +61,14 @@ Notes: Mentors are very cool. Owe then a treat.
 
 ### Week 1
 
-- [ ] Learn fundamentals of Git and VCS
+- [x] Learn fundamentals of Git and VCS
 - [ ] Getting Python fundamentals right.
-- [ ] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/)
+- [x] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/)
 - [ ] Machine Learning Fundamentals
 
 Additional
 - [ ] stuff
-- [ ] Read documentations on ludwig, predibase, and NVIDIA NeMo
+- [x] Read documentations on ludwig, predibase, and NVIDIA NeMo
 
 
 ## Yashmitha
