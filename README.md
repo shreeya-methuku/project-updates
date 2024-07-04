@@ -49,7 +49,7 @@ Notes: Mentors are very cool. Owe then a treat.
 
 ## Shreeya
 ### Week 1
-- [ ] Learn fundamentals of Git and VCS
+- [x] Learn fundamentals of Git and VCS
 - [ ] Getting Python fundamentals right.
 - [ ] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/)
 - [ ] Machine Learning Fundamentals
