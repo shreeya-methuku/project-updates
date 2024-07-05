@@ -30,11 +30,11 @@ Additional
 
 ### Week 1
 
-- [ ] Learn fundamentals of Git and VCS
-- [ ] Getting Python fundamentals right.
-- [ ] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/)
+- [x] Learn fundamentals of Git and VCS
+- [x] Getting Python fundamentals right.
+- [x] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/)
 - [ ] Machine Learning Fundamental
-  - [ ] Data Cleaning
+  - [x] Data Cleaning
 
 Additional
 
